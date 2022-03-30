@@ -14,7 +14,9 @@
 
 ## Tech-Stack
 - Target Framework: Net 6.0
+- Unit Testint Framework: NUnit
 - Programming Language: C# (CSharp)
+- Application Type: Console Application
 
 ## Instructions on How to Run the Code
 - Open Command Line by following the following the steps:
