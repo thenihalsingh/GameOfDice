@@ -1,5 +1,8 @@
 ﻿namespace GameOfDice.Constant
 {
+    /// <summary>
+    /// Constant class consists of various constants used throughout the application.
+    /// </summary>
     internal class Constants
     {
         #region numericConstants

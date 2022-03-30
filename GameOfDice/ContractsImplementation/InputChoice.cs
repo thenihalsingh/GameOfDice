@@ -10,6 +10,11 @@ namespace GameOfDice.ContractsImplementation
         {
             _consoleIO = consoleIO;
         }
+        /// <summary>
+        /// Prompts the player to input the choice to play the game.
+        /// </summary>
+        /// <param name="playerName"></param>
+        /// <returns></returns>
         public char GetUserInput(string playerName)
         {
             int validInput = Constants.ZERO;
