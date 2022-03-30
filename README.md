@@ -18,7 +18,7 @@
 
 ## Instructions on How to Run the Code
 - Open Command Line by following the following the steps:
- - Click Windows Key + R
- - Type ' cmd '
+    - Click Windows Key + R
+    - Type ' cmd '
 
  
