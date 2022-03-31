@@ -16,5 +16,6 @@ public class Program
         GameService gameService = new GameService();
         gameService.StartGame();
         _consoleIO.WriteLine("Game Finished");
+        _consoleIO.ReadLine();
     }
 }
