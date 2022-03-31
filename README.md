@@ -23,7 +23,7 @@
     - Click Windows Key + R
     - Type ' cmd '
 - Type **dotnet --version** to check if latest version of **dotnet** is installed on your machine.
-- If **dotnet** is not installed on your machine or the **dotnet** is less than 6. Kindly, open the below link to download the latest **dotnet** version
+- If **dotnet** is not installed on your machine or the **dotnet** version is less than 6. Kindly, open the below link to download the latest **dotnet** version
     - [Dotnet Download Link](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - If latest **dotnet** version is already installed on your machine or has been installed in the above step. Download the source code as a zip file.
 - After downloading the zip file extract it and then go to the **Publish** folder 
